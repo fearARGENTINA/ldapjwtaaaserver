@@ -1,0 +1,16 @@
+python-ldap==3.4.3
+flask-ldap3-login==0.9.18
+flask-sqlalchemy==3.0.4
+psycopg2-binary==2.9.5
+flask-login==0.6.2
+ecs-logging==2.0.0
+concurrent-log-handler==0.9.20
+pyopenssl==22.1.0
+Werkzeug~=2.3.3
+requests==2.28.1
+flask-jwt-extended[asymmetric_crypto]==4.4.4
+redis==4.4.0
+flask-pydantic==0.11.0
+flask-cors==3.0.10
+pycryptodome==3.16.0
+uWSGI==2.0.21
